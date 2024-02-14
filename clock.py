@@ -1,4 +1,3 @@
-from tkinter import *
 from time import strftime
 import customtkinter
 
